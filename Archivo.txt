@@ -1,1 +1,2 @@
 Este es el primer archivo del repositorio. (Prueba)
+sigo probando los comandos git y las cosas de repositorio para
